@@ -1,15 +1,15 @@
 return {
-	blue_black = "#19191e",
-	dark_blue_gray = "#1d1d22",
-	deep_blue_gray = "#262633",
-	dim_blue_gray = "#323344",
-	med_dark_gray = "#4d4d4d",
-	light_gray = "#a2a2a2",
-	comment_gray = "#646568",
+	blue_black = "#19191f",
+	dark_blue_gray = "#1b1b22",
+	-- deep_blue_gray = "#272735", -- not currently used
+	dim_blue_gray = "#2b2b3b",
+	med_dark_gray = "#585865",
+	-- light_gray = "#a1a1a5",
+	comment_gray = "#5d6065",
 	string_taupe = "#c8a791",
 	deleted_bg = "#301b1b",
 	salmon_pink = "#ffbdb7", -- for lsp error
-	dusky_pink = "#b66d92",
+	-- dusky_pink = "#b66d92",
 	med_pink = "#c56099",
 	bright_pink = "#ff70b5",
 	light_pink = "#ff79c6",
@@ -33,7 +33,7 @@ return {
 	robin_blue = "#93d8fd", -- for lsp hint
 	pale_lavender = "#bd93f9",
 	dusky_lavender = "#9e6ec8",
-	off_white = "#dbdbdb",
+	off_white = "#e0e0eb",
 	warm_white = "#f8f8f2",
 	white = "#ffffff",
 	-- terminal

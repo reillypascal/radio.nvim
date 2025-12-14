@@ -1,6 +1,6 @@
 # radio.nvim
 
-A Neovim color scheme written in Lua
+A dark color scheme for Neovim. I wanted something with both a high contrast and softer colors.
 
 NOTE: this is a work in progress, and subject to change without notice!
 

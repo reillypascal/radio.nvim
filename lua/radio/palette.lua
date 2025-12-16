@@ -2,7 +2,7 @@ return {
 	blue_black = "#19191f",
 	dark_blue_gray = "#1b1b22",
 	-- deep_blue_gray = "#272735", -- not currently used
-	dim_blue_gray = "#2b2b3b",
+	dim_blue_gray = "#2c2c3a",
 	med_dark_gray = "#585865",
 	-- light_gray = "#a1a1a5",
 	comment_gray = "#5d6065",
@@ -33,7 +33,7 @@ return {
 	robin_blue = "#93d8fd", -- for lsp hint
 	pale_lavender = "#bd93f9",
 	dusky_lavender = "#9e6ec8",
-	off_white = "#e0e0eb",
+	off_white = "#dfdfec",
 	warm_white = "#f8f8f2",
 	white = "#ffffff",
 	-- terminal

@@ -42,7 +42,8 @@ M.setup = function()
 		Underlined = { underline = true },
 
 		Cursor = { fg = colors.pale_lavender },
-		CursorLineNr = { fg = colors.med_dark_gray, bold = true },
+		-- CursorLineNr = { fg = colors.med_dark_gray, bold = true },
+		CursorLineNr = { fg = colors.off_white, bold = false },
 
 		-- SignColumn = { bg = colors.bg },
 		--

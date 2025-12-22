@@ -19,7 +19,7 @@ M.setup = function()
 		Keyword = { fg = colors.light_pink },
 		Keywords = { fg = colors.light_pink },
 		Identifier = { fg = colors.light_pink },
-		Function = { fg = colors.cyan }, -- was light_green
+		Function = { fg = colors.light_green }, -- was light_green
 		Statement = { fg = colors.light_pink },
 		Conditional = { fg = colors.light_pink },
 		Repeat = { fg = colors.light_pink },

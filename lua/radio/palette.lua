@@ -22,7 +22,7 @@ return {
 	white_yellow = "#fafae8",
 	yellow_white = "#f7f7f2",
 	lemon_yellow = "#f1fa8c",
-	light_green = "#96ce98",
+	light_green = "#afe7b1",
 	lime_green = "#50fa7b",
 	created_bg = "#222e1d",
 	pale_mint = "#b2e9cf",
